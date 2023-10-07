@@ -1112,6 +1112,6 @@ a {
 ============================*/
 .item-position {
     padding: 1px 8px 0px 8px;
-    width: 45px;
+    width: 45px !important;
     margin-top: 0px !important;
 }
